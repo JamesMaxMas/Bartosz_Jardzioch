@@ -1,0 +1,1 @@
+Temat quizu: PROGRAMOWANIE W C++ Nick: BARTOSZ JARDZIOCH Zdobyte punkty: 3 Maksymalna liczba zdobytych punktow: 10 , procentowy wynik: 0.3 %. 

@@ -1,0 +1,62 @@
+Programowanie w C++
+Bartosz Jardzioch
+Ktora biblioteka pozwala zapisywac dane do plikow:
+fstream
+cmath
+algorythm
+cstdlib
+a
+Aby dopisac dane na koncu pliku nalezy otworzyc go uzywajac specyfikatora:
+ios::ate
+ios::app
+ios::binary
+ios::nocreate
+b
+Aby otworzyc plik tylko jezeli juz istnieje nalezy uzyc specyfikatora:
+ios::ate
+ios::app
+ios::binary
+ios::nocreate
+d
+Aby otworzyc plik do odczytu nalezy uzyc specyfikatora:
+ios::in
+ios::app
+ios::out
+ios::nocreate
+a
+C++ zalicza sie do jezykow programowania:
+zewnetrznych niskiego poziomu
+zewnetrznych wysokiego poziomu
+wewnetrznych
+zadne z powyzszych
+b
+Program w C++ sklada sie z:
+czesci operacyjnej i deklaracyjnej
+tylko czesci operacyjnej
+tylko czesci deklaracyjnej
+czesci operacyjnej,  deklaracyjnej i funkcyjnej
+a
+Znak '\n' oznacza:
+tabulator poziomy
+tabulator pionowy
+nowa linie
+przesuniecie kursora o jeden znak w lewo
+c
+Znak '\v' oznacza:
+tabulator poziomy
+tabulator pionowy
+nowa linie
+przesuniecie kursora o jeden znak w lewo
+b
+Zapis "const" oznacza:
+deklaracje zmiennej
+deklaracje wzaznika
+deklaracje stalej
+deklaracje referencji
+c
+Najwiekszy priorytet ma operator:
+'+'
+'*'
+'!'
+'=='
+c

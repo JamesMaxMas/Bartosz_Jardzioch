@@ -1,0 +1,1 @@
+Temat quizu: PROGRAMOWANIE W C++ Nick: MIROSLAW ZELENT Zdobyte punkty: 1 Maksymalna liczba zdobytych punktow: 5 , procentowy wynik: 0.2 %. 
