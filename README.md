@@ -1,1 +1,1 @@
-# Bartosz Jardzioch. Projects with Python, C++ and mibile app in Lua.
+# Bartosz Jardzioch. Projects with Python, C++ and mobile app in Lua.
